@@ -1,0 +1,4 @@
+#Fri Oct 11 10:57:53 ICT 2019
+base.0=D\:\\Freelance\\KairosGalaxy\\kairos_shopping\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
